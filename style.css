@@ -1,0 +1,46 @@
+.purplecontainer {
+  border: 1px solid purple;
+}
+
+.orangecontainer {
+  border: 1px solid orange;
+  display: flex;
+  justify-content: space-between;
+  padding-right: 5px;
+  padding-left: 5px;
+}
+
+img {
+  height: 300px;
+  width: 300px;
+}
+
+#fonty{
+  color: blue;
+  font-family: 'Bonbon', cursive;
+  text-align: center;
+}
+
+body{
+  background-color: turquoise
+}
+
+.images {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.ig{
+  padding-bottom: 30px;
+}
+
+.pg{
+  padding-bottom: 30px;
+  padding-top: 30px
+}
+
+.pl{
+  padding-left: 5px;
+}
